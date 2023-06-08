@@ -1,5 +1,0 @@
-[build]
-  command = "npm start"
-
-[dev]
-  command = "npm run dev"
